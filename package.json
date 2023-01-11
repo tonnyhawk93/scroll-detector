@@ -1,0 +1,19 @@
+{
+  "name": "scroll-detector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonnyhawk93/scroll-detector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonnyhawk93/scroll-detector/issues"
+  },
+  "homepage": "https://github.com/tonnyhawk93/scroll-detector#readme"
+}
